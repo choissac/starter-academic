@@ -10,8 +10,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: North Carolina A&T State University 
-  url: https://www.stanford.edu/
+- name: Computer Science Department, North Carolina A&T State University 
+  url: https://www.ncat.edu/
   
 # Role/position/tagline
 role: Assistant Professor
