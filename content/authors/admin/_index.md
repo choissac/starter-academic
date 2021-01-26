@@ -12,11 +12,12 @@ role: Assistant Professor
 organizations:
 - name: Computer Science Department, North Carolina A&T State University 
   url: https://www.ncat.edu/
- # Role/position/tagline
- role2: Assistant Professor
+
+# Role/position/tagline
+role2: Assistant Professor
  
- # Organizations/Affiliations to show in About widget
- organizations2:
+# Organizations/Affiliations to show in About widget
+organizations2:
  - name: Computer Science Department, North Carolina A&T State University 
    url: https://www.ncat.edu/
    
